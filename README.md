@@ -1,4 +1,4 @@
-# AWStest
+# AIfinity(AI solution using AWS Sagemaker, S3)
 
 This is a submission for the 48 Hr Hackathon Aifinity hackathon using AWS resources (Sagemaker, S3)
 
